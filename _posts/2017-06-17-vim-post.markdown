@@ -1,0 +1,13 @@
+---
+Layout: post
+title:  "Marcus Aurelius"
+date:   2017-06-15 20:28:40 +0200
+categories: offtopic
+---
+
+
+# VIM!
+
+This is my first post created using vim. Trying to get used to using it again. Will most likely be using it as my text editor. I really like the folding feature that I got from a plugin. It is a little buggy right now but it is pretty cool overall. I could always deactivate it if I don't like it.
+
+Also using the Goyo plugin to center the text and have a nicer format overall.
