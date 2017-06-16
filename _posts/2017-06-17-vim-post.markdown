@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title:  "VIM BOII"
 date:   2017-06-15 20:28:40 +0200
 categories: offtopic
