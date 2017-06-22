@@ -8,7 +8,10 @@ categories: offtopic
 # PAPA BLESS:
 
 
-## Today I spent the day doing
+## Today I spent the day doing:
+
+
+
 
 - Swift Programming
 
