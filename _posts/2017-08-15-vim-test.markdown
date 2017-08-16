@@ -5,7 +5,7 @@ date:   2017-08-15 20:28:40 +0200
 categories: offtopic
 ---
 
-#TESTING
+# TESTING:
 
 Back at it, haven't used vim in a while again, I had a mini vacation. This is me re introduction.
 
