@@ -138,6 +138,8 @@ font header .navbar-default .navbar-nav li a:hover {
   background: #655E7A;
   color: #FF00FF;
   padding: 20px 30px;
+  position: centered;
+  font-weight: 300;
 }
 /*--
 	wrapper Start
