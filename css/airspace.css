@@ -52,7 +52,7 @@ a:active {
   margin-bottom: 70px;
 }
 .section-title h2 {
-  text-transform: uppercase;
+  text-transform: ;
   font-size: 28px;
   font-weight: 600;
 }
@@ -151,7 +151,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 50px 0;
 }
 #intro .block h2 {
-  padding-top: 35px;
+  padding-top: 0px;
   line-height: 27px;
   margin: 0;
 }
