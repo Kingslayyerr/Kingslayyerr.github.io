@@ -148,7 +148,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	wrapper Start
 --*/
 #intro {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 #intro .block h2 {
   padding-top: 35px;
@@ -160,8 +160,8 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: ;
 }
 #intro .block img {
-  padding-left: 40px;
-  width: 100%;
+  padding-left: 10px;
+  width: 110%;
 }
 #intro .section-title {
   margin-bottom: 0px;
