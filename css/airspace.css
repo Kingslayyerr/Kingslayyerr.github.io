@@ -160,7 +160,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: ;
 }
 #intro .block img {
-  padding-left: 10px;
+  padding-left: 0px;
   width: 110%;
 }
 #intro .section-title {
@@ -272,9 +272,12 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #655E7A;
-  color: #FF00FF;
+  background: #c536e2;
+  color: #fff;
   padding: 20px 30px;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-weight: 600;
 }
 /*--
 	content Start
