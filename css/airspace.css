@@ -163,7 +163,8 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-left: 0px;
   margin-left: 10%;
   margin-right: 10%;
-  width: 110%;
+  margin-top:10%;
+  width: 100%;
 }
 #intro .section-title {
   margin-bottom: 0px;
