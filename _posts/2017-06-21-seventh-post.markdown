@@ -6,7 +6,7 @@ categories: offtopic
 ---
 
 # PAPA BLESS
-![Ethan](https://pbs.twimg.com/media/Dga7qs9VQAI_pkT.jpg){width:50%}
+![Ethan](https://pbs.twimg.com/media/Dga7qs9VQAI_pkT.jpg){: height:"50px"}
 
 ## Today I spent the day doing:
 
