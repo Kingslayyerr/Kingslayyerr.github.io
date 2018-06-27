@@ -5,13 +5,14 @@ date:   2017-06-21 20:28:40 +0200
 categories: offtopic
 ---
 
-# PAPA BLESS:
-![Ethan Klein](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjAk4a64_TbAhUyO30KHQuRCLkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.famousbirthdays.com%2Fpeople%2Fethan-klein.html&psig=AOvVaw228Ol3COi1u0vLBr8MFJJv&ust=1530220934815428)
+# PAPA BLESS
+![Ethan](https://pbs.twimg.com/media/Dga7qs9VQAI_pkT.jpg)
 
 ## Today I spent the day doing:
 
 
 
+##
 
 - Swift Programming
 
