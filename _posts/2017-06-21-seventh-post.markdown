@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "STUFF" 
+title: "STUFF"
 date:   2017-06-21 20:28:40 +0200
 categories: offtopic
 ---
 
 # PAPA BLESS:
-
+![Ethan Klein](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjAk4a64_TbAhUyO30KHQuRCLkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.famousbirthdays.com%2Fpeople%2Fethan-klein.html&psig=AOvVaw228Ol3COi1u0vLBr8MFJJv&ust=1530220934815428)
 
 ## Today I spent the day doing:
 
@@ -43,12 +43,10 @@ Had to pawn some noobs for a bit, nothing more satisfying than going Mercy hunti
 - Documentation
 
 Worked on making API calls to Eventbrite and displaying the data I want using JQuery and HTML. Learned some more about endpoint documentation and how important
-table are (Still don't know how to make those nifty tables).
+tables are (Still don't know how to make those nifty tables).
 
 - Jekyll
 
 Still need to learn more about manipulating Jekyll and changing things up on the templates.
 
 ## Thats all folks!
-
- 
