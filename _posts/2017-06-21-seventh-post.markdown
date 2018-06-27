@@ -6,13 +6,13 @@ categories: offtopic
 ---
 
 # PAPA BLESS
-![Ethan](https://pbs.twimg.com/media/Dga7qs9VQAI_pkT.jpg)
+![Ethan](https://pbs.twimg.com/media/Dga7qs9VQAI_pkT.jpg){width:50%}
 
 ## Today I spent the day doing:
 
 
 
-##
+<br>
 
 - Swift Programming
 
