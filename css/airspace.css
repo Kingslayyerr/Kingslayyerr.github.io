@@ -16,6 +16,8 @@
 body {
   font-family: 'menlo', sans-serif;
   -webkit-font-smoothing: antialiased;
+  color: orange;
+  background-color: #4a4141;
 }
 h1,
 h2,
@@ -55,11 +57,12 @@ a:active {
   text-transform: ;
   font-size: 28px;
   font-weight: 600;
+  color: orange;
 }
 .section-title p {
   font-family: 'Volkhov', serif;
   font-style: italic;
-  color: #666;
+  color: #b1ea49;
 }
 /*--
 	Header Start
@@ -157,7 +160,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: #f9f4eb;
   padding-top: ;
 }
 #intro .block img {
@@ -188,10 +191,10 @@ font header .navbar-default .navbar-nav li a:hover {
 #service .service-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #ec5656;
 }
 #service .service-item p {
-  color: #888;
+  color: ##f9f4eb;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
