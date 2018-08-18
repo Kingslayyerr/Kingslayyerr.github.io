@@ -16,7 +16,7 @@
 body {
   font-family: 'menlo', sans-serif;
   -webkit-font-smoothing: antialiased;
-  color: orange;
+  color: #f9f4eb;
   background-color: #4a4141;
 }
 h1,
@@ -34,6 +34,10 @@ h2 {
 h3 {
   font-size: 28px;
   font-weight: 300;
+}
+
+h4 {
+  color: #d663f9;
 }
 p {
   font-size: 15px;
@@ -170,6 +174,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .section-title {
   margin-bottom: 0px;
+  color: #b1ea49;
 }
 #intro .section-title p {
   padding-top: 20px;
@@ -272,6 +277,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
+  color: orange;
 }
 #feature p {
   color: #8d8f92;
