@@ -64,8 +64,7 @@ a:active {
   color: orange;
 }
 .section-title p {
-  font-family: 'Volkhov', serif;
-  font-style: italic;
+  font-family: 'menlo', sans-serif;
   color: #b1ea49;
 }
 /*--
