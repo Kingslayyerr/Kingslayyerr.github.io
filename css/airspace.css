@@ -17,7 +17,7 @@ body {
   font-family: 'menlo', sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #131313;
-  background-color: #FFFFFF;
+  background-color: #121212;
 }
 h1,
 h2,
@@ -61,7 +61,7 @@ a:active {
   text-transform: ;
   font-size: 28px;
   font-weight: 600;
-  color: orange;
+  color: #98f77b;
 }
 .section-title p {
   font-family: 'menlo', sans-serif;
@@ -163,7 +163,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #131313;
+  color: beige;
   padding-top: ;
 }
 #intro .block img {
