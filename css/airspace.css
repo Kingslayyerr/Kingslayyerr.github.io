@@ -16,7 +16,7 @@
 body {
   font-family: 'menlo', sans-serif;
   -webkit-font-smoothing: antialiased;
-  color: #131313;
+  color: beige;
   background-color: #121212;
 }
 h1,
@@ -71,7 +71,7 @@ a:active {
 	Header Start
 --*/
 header {
-  background: #fff;
+  background: #121212;
   padding: 20px 0;
 }
 header .navbar {
@@ -89,7 +89,7 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #333333;
+  color: beige;
   padding: 10px 26px;
   font-size: 15px;
   font-family: menlo;
@@ -277,7 +277,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
-  color: orange;
+  color: #98f77b;
 }
 #feature p {
   color: #4a4656;
@@ -802,7 +802,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	footer Start
 --*/
 footer {
-  background: #F5F5F5;
+  background: #121212;
   text-align: center;
   padding-top: 48px;
   padding-bottom: 55px;
